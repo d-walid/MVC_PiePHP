@@ -1,4 +1,4 @@
-Ce projet avait pour but de nous apprendre comment fonctionne un framework en MVC. Les redirections, le CRUD, les routes etc.
+Ce projet avait pour but de nous apprendre comment fonctionne un framework en MVC. Les redirections, le CRUD, les routes, etc.
 
 C’était également un projet lié à mon année d’études à Épitech.
 
